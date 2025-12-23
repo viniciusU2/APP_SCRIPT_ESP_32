@@ -14,6 +14,15 @@ https://script.google.com/macros/s/SEU_ID_DO_SCRIPT/exec
 
 ---
 
+## 📊 PLANILHA DE TESTE
+
+```text
+https://docs.google.com/spreadsheets/d/1Sguu2u5oevELwfApkkpOkCPR9BINpRlYGgjVLTY2hxU/edit?usp=sharing
+```
+
+
+---
+
 ## 📦 FORMATO PADRÃO DA REQUISIÇÃO
 
 ```json
